@@ -1,0 +1,17 @@
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.deps.json
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.runtimeconfig.json
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.runtimeconfig.dev.json
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.dll
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.Tests.pdb
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.csprojAssemblyReference.cache
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.AssemblyInfoInputs.cache
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.AssemblyInfo.cs
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.dll
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.pdb
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.1\GradeBook.pdb
+C:\Users\JosepOriolUstrellAlt\Documents\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.1\GradeBook.Tests.csproj.CopyComplete
